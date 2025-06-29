@@ -78,6 +78,11 @@ This project implements and demonstrates a digital Finite Impulse Response (FIR)
    python output.py
    ```
 
+## Output Samples
+![Output 1](https://github.com/user-attachments/assets/a7992af0-3ef3-4dda-966c-370de0ee1899)
+![Output 2](https://github.com/user-attachments/assets/103d5fbb-9b3f-406e-8d40-5dc1e2bee0a6)
+
+
 ## Customization
 
 - You can modify the signal parameters or noise characteristics in `input.py`.
